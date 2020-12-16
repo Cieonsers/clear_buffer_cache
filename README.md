@@ -1,3 +1,3 @@
 # clear_buffer_cache
 
-  bash <(curl -s -L https://git.io/JLGg1)
+    bash <(curl -s -L https://git.io/JLGg1)
